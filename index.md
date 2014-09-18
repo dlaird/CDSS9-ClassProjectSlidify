@@ -39,14 +39,18 @@ Grab your numbers and start a-pluggin'!!!
 
 --- .class #id 
 ## Magic Stuff
-Now, for you book types out there that are still reading this instead of plugging in your numbers and getting answers, we thought you might like to see how some of this magic runs under the hood.  Let's say you are measuring something, like Cycles before Failure, on three different samples, say different Sample Lengths, you might have something like this:
+Now, for you book-types out there that are still reading this instead of plugging in your numbers and getting answers, we thought you might like to see how some of this magic runs under the hood.  
+<br>
+Let's say you are measuring something, like Cycles before Failure, on three different samples, say different Sample Lengths, you might have something like this:
+<br><br>
 <table><td>Sample Length<td>1<td>2<td>3<td>
 <tr><td>Cycles Before Failure<td>2<td>4<td>8</table>
+<br><br>
 The smart people over at Johns Hopkins and places like that have figured out how to put a STRAIGHT LINE right through all these numbers!!!
 
 --- .class #id 
 ## More Magic Stuff
-Like this! So, now, if you ever have a different Sample Length, you just find it on the line!!!  You can't miss!!!
+Like this! So, now, if you ever have a different Sample Length, you just find it on the line!!!  You can't miss!!!  Right answers, every time!!!
 <center>
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 </center>
